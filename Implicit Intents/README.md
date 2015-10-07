@@ -5,7 +5,7 @@ required through a filter, and the Android system must determine the best compon
 to utilize. An intent filter can be either an action, data, or a category.
 
 The most commonly used intent filter is an action, and the most common action is
-ACTION_VIEW.This mode requires a uniform resource identifier (URI) to be specified and
+``ACTION_VIEW``.This mode requires a uniform resource identifier (URI) to be specified and
 then displays the data to the user. It does the most reasonable action for the given URI.
 For example, the implicit intents in case 0, 1, and 2 in the following example have the
 same syntax but produce different results.
