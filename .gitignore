@@ -1,8 +1,8 @@
 *.classpath
-Implicit Intents/bin/
+bin/
 *.properties
-Implicit Intents/libs/
-Implicit Intents/proguard-project.txt
-Implicit Intents/gen/
+libs/
+proguard-project.txt
+gen/
 *.project
 *.prefs
